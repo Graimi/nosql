@@ -24,7 +24,7 @@ const main = async () => {
     console.log(savedDogs);
     console.log('Los elementos se ha guardado correctamente');
   } catch (error) {
-    console.log('Error en la subido', error);
+    console.log('Error en la subida', error);
   }
 };
 
